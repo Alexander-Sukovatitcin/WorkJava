@@ -4,9 +4,6 @@ import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-/**
- * Created by acer on 05.12.2016.
- */
 public class serverSort {
     public static int n;
     public static int CountServerSort = 0;
