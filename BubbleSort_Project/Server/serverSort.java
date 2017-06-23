@@ -6,7 +6,7 @@ import java.net.Socket;
 
 public class serverSort {
     public static int n;
-    public static int CountServerSort = 1;
+    public static int CountServerSort = 0;
     public static int signal = 0;
     static String[] Arrayinfo = new String[100];
 
