@@ -43,7 +43,7 @@ public class GUIclient {
         frame.setSize(800, 400);
         JButton b1 = new JButton("Accept");
         JButton b2 = new JButton("Status");
-        JButton b3 = new JButton("Open folder DB");
+        JButton b3 = new JButton("Open folder outputFile");
 
         frame.setContentPane(new ImagePanel());
         final Container cont = frame.getContentPane();
