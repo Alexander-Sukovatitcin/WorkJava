@@ -7,7 +7,7 @@
 4. Любой функционал.
 
 Клиент-серверное приложение на языке Java, реализующее сортировку пузырьком. Массив заполнен случайными числами. 
-Client=GUI - клиент; Server - сервер.
+Client-GUI - клиент; Server - сервер.
 
 A client-server application in Java that implements the sorting by a bubble. The array is filled with random numbers. 
 ClientGUI - client; Server - server.
