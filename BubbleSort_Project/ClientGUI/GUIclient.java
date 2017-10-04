@@ -1,3 +1,4 @@
+
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -13,6 +14,7 @@ public class GUIclient {
     private static int N;
     private final JTextField jtpX0 = new JTextField(5);
     private String[] ArrayStr = new String[100];
+    private String[] a = new String[100];
     private final JLabel TextStatus = new JLabel();
 
 
